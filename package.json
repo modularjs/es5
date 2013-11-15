@@ -1,0 +1,8 @@
+{
+  "name": "modularjs-es5",
+  "version": "0.0.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-release": "~0.6.0"
+  }
+}

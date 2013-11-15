@@ -4,6 +4,8 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "components"
+    "components",
+    "Gruntfile.js",
+    "package.json"
   ]
 }
