@@ -6,10 +6,7 @@ module.exports = function(grunt) {
       release: {
           options: {
               file: 'bower.json', //default: package.json
-              npm: false, //default: true
-              github: {
-                  repo: 'modularjs/es5' //put your user/repo here
-              }
+              npm: false //default: true
           }
       }
   });
